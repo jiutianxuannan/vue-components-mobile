@@ -1,0 +1,7 @@
+{
+    "index": "./index.js",
+    "double-bounce": "./spinner/double-bounce.vue",
+    "fading-circle": "./spinner/fading-circle.vue",
+    "snake": "./spinner/snake.vue",
+    "triple-bounce": "./spinner/triple-bounce.vue"
+}
