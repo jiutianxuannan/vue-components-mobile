@@ -10,7 +10,7 @@
   </div>
 </template>
 
-<style>
+<style scoped>
   .page-actionsheet-wrapper {
     display: flex;
     flex-direction: column;
